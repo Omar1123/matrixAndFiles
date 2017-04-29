@@ -35,7 +35,7 @@ public class Vectors {
     private void run() {
         getNumbersFromFile();
         //orderAsc(content);
-        ordenamientoBurbujaDescendente(content);
+        orderInDescMode(content);
         getNumbers();
     }
     
