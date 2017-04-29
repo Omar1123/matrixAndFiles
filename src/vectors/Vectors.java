@@ -37,6 +37,11 @@ public class Vectors {
         //orderAsc(content);
         orderInDescMode(content);
         getNumbers();
+        
+        System.out.println("____________________________________________________");
+        
+        orderInAscMode(content);
+        getNumbers();
     }
     
     private void getNumbers() {
